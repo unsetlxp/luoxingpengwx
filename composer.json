@@ -1,6 +1,6 @@
 {
     "name": "luoxingpengwx/think",
-    "description": "the new thinkphp framework",
+    "description": "lxp test base prr",
     "type": "project",
     "keywords": [
         "framework",
@@ -17,9 +17,7 @@
     ],
     "require": {
         "php": ">=5.6.0",
-        "topthink/framework": "5.1.*",
-        "topthink/think-worker": "2.0.*",
-        "naixiaoxin/think-wechat": "^1.6"
+        "topthink/framework": "5.1.*"
     },
     "autoload": {
         "psr-4": {
